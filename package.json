@@ -1,8 +1,8 @@
 {
   "name": "oppgave3",
-  "homepage":"https://simmoe.github.io/oppgave3/",
   "version": "0.1.0",
   "private": true,
+  "homepage":"https://simmoe.github.io/oppgave3/",
   "dependencies": {
     "gh-pages": "^2.1.1",
     "react": "^16.11.0",
