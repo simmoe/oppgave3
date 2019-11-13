@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/oppgave3/static/css/main.b100e6da.chunk.css",
+    "main.js": "/oppgave3/static/js/main.097e4238.chunk.js",
+    "main.js.map": "/oppgave3/static/js/main.097e4238.chunk.js.map",
+    "runtime-main.js": "/oppgave3/static/js/runtime-main.f4448b1d.js",
+    "runtime-main.js.map": "/oppgave3/static/js/runtime-main.f4448b1d.js.map",
+    "static/js/2.2db8ca07.chunk.js": "/oppgave3/static/js/2.2db8ca07.chunk.js",
+    "static/js/2.2db8ca07.chunk.js.map": "/oppgave3/static/js/2.2db8ca07.chunk.js.map",
+    "index.html": "/oppgave3/index.html",
+    "precache-manifest.2619e87bf0cf5369edf09c455ac980fe.js": "/oppgave3/precache-manifest.2619e87bf0cf5369edf09c455ac980fe.js",
+    "service-worker.js": "/oppgave3/service-worker.js",
+    "static/css/main.b100e6da.chunk.css.map": "/oppgave3/static/css/main.b100e6da.chunk.css.map"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f4448b1d.js",
+    "static/js/2.2db8ca07.chunk.js",
+    "static/css/main.b100e6da.chunk.css",
+    "static/js/main.097e4238.chunk.js"
+  ]
+}
